@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093385363497",
+    "project_id": "ravasiya-collections",
+    "storage_bucket": "ravasiya-collections.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093385363497:android:9754bc7b00391db732fc38",
+        "android_client_info": {
+          "package_name": "com.ravasiya.collection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093385363497-777j7l9js4hchcstqqnhc6q2oe1gtjsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrlLisAulUoTh7Ejx_NBHLG3uIzp-L6Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093385363497-777j7l9js4hchcstqqnhc6q2oe1gtjsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
